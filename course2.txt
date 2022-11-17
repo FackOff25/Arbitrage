@@ -1,0 +1,12 @@
+Rubles Dollars 0.013586
+Rubles Euro 0.012031
+Rubles Yens 1.54
+Dollars Rubles 73.61
+Dollars Euro 0.88394
+Dollars Yens 113.44
+Euro Rubles 100
+Euro Dollars 1.13
+Euro Yens 128.2
+Yens Euro 0.0078
+Yens Rubles 0.6479
+Yens Dollars 0.008815
